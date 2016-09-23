@@ -1,6 +1,6 @@
 {
   "name": "matrix_transformer",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Functional library to perform chained matrix transformations on 3D x,y,z coordinates",
   "main": "index.js",
   "scripts": {
